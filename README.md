@@ -17,7 +17,9 @@
 - ⚡ Fun fact **I love turning ideas into interactive and responsive web experiences!**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<p align="left">Email: halimachowdhurymahina@gmail.com<br>
+  Phone: 013********
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
