@@ -23,6 +23,9 @@
 - 🧠 Always interested in learning new technologies and improving my development skills
 - 🎯 My goal is to build scalable, professional and impactful full-stack applications
 
+
+- 📍 Based in **Dhaka, Bangladesh**
+
 ---
 
 ## 🛠️ Tech Stack & Skills
@@ -125,6 +128,12 @@ A modern fitness workout tracking application built with **Next.js, TypeScript a
 
 `Next.js` `TypeScript` `Tailwind CSS` `DaisyUI` `React`
 
+
+### 🔗 Links
+
+🌐 [Live Demo](https://fit-log-chi.vercel.app/)  
+💻 [GitHub Repository](https://github.com/halima-chowdhury-mahima/Fit-log)
+
 ---
 
 ## 💻 Dev Stack
@@ -144,25 +153,35 @@ A responsive developer-focused web application built with modern frontend techno
 
 `React` `TypeScript` `Tailwind CSS` `DaisyUI`
 
+
+### 🔗 Links
+
+🌐 [Live Demo](https://dev-stack-sigma.vercel.app/)
+💻 [GitHub Repository](https://github.com/halima-chowdhury-mahima/Dev-stack)
+
 ---
 
-## ⚖️ LAXAXIS
+## 🌐 Personal Portfolio
 
-A premium and professional law firm website designed with a modern corporate appearance.
+A modern and responsive personal portfolio website showcasing my skills, projects, experience and contact information.
 
 ### ✨ Features
 
-- Premium responsive design
-- Lawyer profile pages
-- Dynamic expertise pages
-- Blog and article pages
-- Professional hero section
-- Animated statistics
-- Appointment and contact sections
+- Professional personal introduction
+- Skills and technology showcase
+- Featured project sections
+- Responsive design for mobile, tablet and desktop
+- Contact and social media links
+- Clean and modern user interface
 
 ### 🛠️ Technologies
 
-`Next.js` `TypeScript` `Tailwind CSS`
+`HTML` `CSS` `JavaScript`
+
+### 🔗 Links
+
+🌐 [Live Demo](https://halima-chowdhury-mahima.github.io/My-Resume/)
+💻 [GitHub Repository](https://github.com/halima-chowdhury-mahima/My-Resume)
 
 ---
 
