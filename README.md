@@ -5,162 +5,201 @@
 
 <h1 align="center">Hi 👋, I'm Halima Chowdhury Mahima</h1>
 
-<h3 align="center">
-  Full Stack Web Developer • React • Next.js • TypeScript • Node.js
-</h3>
+<h3 align="center">💻 Full Stack Web Developer | 🚀 Passionate Learner | ✨ Building Modern Web Experiences</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Building+Modern+%26+Responsive+Web+Applications;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Learning.+Building.+Improving." alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="[My_LINKEDIN_URL](https://www.linkedin.com/in/halima-chowdhury-mahima-661084433/?isSelfProfile=true)">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="[My_PORTFOLIO_URL](https://halima-chowdhury-mahima.github.io/My-Resume/)">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:halimachowdhurymahina@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Halima+Chowdhury+Mahima;Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;Turning+Ideas+Into+Modern+Web+Experiences;Learning%2C+Building+%26+Growing+Every+Day" alt="Typing SVG" />
 </p>
 
 ---
 
-## ✨ About Me
+## 👩‍💻 About Me
 
-I'm a **Full Stack Web Developer** focused on creating modern, responsive and user-friendly web applications.
-
-- 💻 Building projects with **React, Next.js, TypeScript and Tailwind CSS**
-- ⚙️ Learning and working with **Node.js and backend development**
-- 🎨 Comfortable with **Figma and Adobe Photoshop**
-- 🚀 Passionate about clean UI, reusable components and real-world projects
-- 🌱 Continuously improving my development skills
-- 🎯 Focused on becoming a strong professional full-stack developer
+- 💻 Full Stack Web Developer focused on building modern and responsive web applications
+- ⚛️ Working with **React, Next.js, JavaScript & TypeScript**
+- 🌱 Expanding my knowledge in **Node.js and Backend Development**
+- 🎨 Experienced with **Tailwind CSS, Figma & Adobe Photoshop**
+- 🚀 I enjoy transforming ideas into functional and user-friendly digital experiences
+- 🧠 Always interested in learning new technologies and improving my development skills
+- 🎯 My goal is to build scalable, professional and impactful full-stack applications
 
 ---
 
-## ⚡ Tech Arsenal
+# 🛠️ Tech Stack & Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,git,github,figma,photoshop,vscode,vercel" />
+## 🌐 Frontend Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+## ⚙️ Backend & Development
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+## 🎨 Design Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🏋️ FitLog
-A modern workout tracking application built with **Next.js, TypeScript and Tailwind CSS**.
+## 🏋️ FitLog
 
-**Highlights**
-- Dynamic workout pages
+A modern fitness workout tracking application built with **Next.js, TypeScript and Tailwind CSS**.
+
+### ✨ Features
+
 - Workout library
-- Today’s plan
-- Save/remove workouts
-- Completed workout tracking
-- Sorting and responsive UI
+- Dynamic workout details
+- Today's workout plan
+- Save and remove workouts
+- Mark workouts as completed
+- Workout duration sorting
+- Responsive design
 - Toast notifications
-- Loading and 404 states
+- Loading and 404 pages
 
-**Tech:** `Next.js` `TypeScript` `Tailwind CSS` `DaisyUI`
+### 🛠️ Technologies
+
+`Next.js` `TypeScript` `Tailwind CSS` `DaisyUI` `React`
 
 ---
 
-### 💻 Dev Stack
-A modern developer-focused application with clean UI and interactive functionality.
+## 💻 Dev Stack
 
-**Highlights**
-- Responsive layout
-- Dynamic JSON data
+A responsive developer-focused web application built with modern frontend technologies.
+
+### ✨ Features
+
+- Modern responsive UI
+- Developer technology cards
 - Add-to-stack functionality
 - Toast notifications
-- Modern card-based interface
+- JSON-based dynamic data
+- Mobile-friendly design
 
-**Tech:** `React` `TypeScript` `Tailwind CSS` `DaisyUI`
+### 🛠️ Technologies
+
+`React` `TypeScript` `Tailwind CSS` `DaisyUI`
 
 ---
 
-### ⚖️ LAXAXIS
-A premium law firm website designed with a modern corporate interface.
+## ⚖️ LAXAXIS
 
-**Highlights**
+A premium and professional law firm website designed with a modern corporate appearance.
+
+### ✨ Features
+
+- Premium responsive design
 - Lawyer profile pages
-- Expertise pages
-- Blog/article pages
+- Dynamic expertise pages
+- Blog and article pages
+- Professional hero section
 - Animated statistics
-- Premium hero section
-- Responsive design
+- Appointment and contact sections
 
-**Tech:** `Next.js` `TypeScript` `Tailwind CSS`
+### 🛠️ Technologies
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=halima-chowdhury-mahima&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halima-chowdhury-mahima&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=halima-chowdhury-mahima&theme=tokyonight&hide_border=true" />
-</p>
+`Next.js` `TypeScript` `Tailwind CSS`
 
 ---
 
-## 📈 Contribution Activity
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=halima-chowdhury-mahima&theme=tokyo-night&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=halima-chowdhury-mahima&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=halima-chowdhury-mahima&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halima-chowdhury-mahima&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🧠 Current Focus
+# 📚 My Development Journey
 
 ```text
-Frontend       ██████████
-React          █████████░
-Next.js        █████████░
-TypeScript     ████████░░
-Node.js        ███████░░░
-UI/UX          ████████░░
-Backend        ██████░░░░
+HTML          ██████████
+CSS           ██████████
+JavaScript    ██████████
+ES6           ██████████
+TypeScript    █████████░
+Tailwind CSS  █████████░
+React         ████████░░
+Next.js       ████████░░
+Node.js       ██████░░░░
+Figma         █████████░
+Photoshop     █████████░
 ```
 
 ---
 
-## 🌐 Social & Portfolio
+# 🌐 Social & Portfolio Links
 
 <p align="center">
-  <a href="[My_LINKEDIN_URL](https://www.linkedin.com/in/halima-chowdhury-mahima-661084433)">
-    <img src="https://img.shields.io/badge/LinkedIn-Halima%20Chowdhury%20Mahima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 
-  <a href="[My_PORTFOLIO_URL](https://halima-chowdhury-mahima.github.io/My-Resume/)">
-    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-black?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/halima-chowdhury-mahima-661084433/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-  <a href="https://github.com/halima-chowdhury-mahima">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<a href="https://halima-chowdhury-mahima.github.io/My-Resume/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
+<a href="https://github.com/halima-chowdhury-mahima">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:halimachowdhurymahina@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+<p align="center">
+  <b>📧 Email:</b> 
   <a href="mailto:halimachowdhurymahina@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    halimachowdhurymahina@gmail.com
   </a>
 </p>
 
 ---
 
-## 💬 Let's Connect
+# 🤝 Let's Connect
 
-I'm always open to connecting with developers, collaborating on interesting projects and exploring new opportunities.
+I'm always interested in connecting with developers, learning new technologies and working on meaningful projects.
+
+If you would like to collaborate, discuss a project or simply connect, feel free to reach out through my social links.
+
+---
 
 <p align="center">
-  <b>✨ Build. Learn. Improve. Repeat.</b>
+  <i>✨ "Keep learning, keep building, and never stop improving."</i>
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting my GitHub profile!
+  ⭐ Feel free to explore my repositories and follow my development journey!
 </p>
+
+<p align="center">
+  💙 Thanks for visiting my GitHub Profile!
+</p>
+
