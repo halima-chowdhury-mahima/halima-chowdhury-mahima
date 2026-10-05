@@ -25,35 +25,80 @@
 
 ---
 
-# 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & Skills
 
-## 🌐 Frontend Development
+### 🌐 Frontend Development
 
 <p>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</a>
+
+<a href="https://www.typescriptlang.org/" target="_blank">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</a>
+
+<a href="https://262.ecma-international.org/6.0/" target="_blank">
   <img src="https://img.shields.io/badge/ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</a>
+
+<a href="https://react.dev/" target="_blank">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</a>
+
+<a href="https://nextjs.org/" target="_blank">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</a>
+
 </p>
 
-## ⚙️ Backend & Development
+### ⚙️ Backend & Development
 
 <p>
+
+<a href="https://nodejs.org/" target="_blank">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</a>
+
+<a href="https://github.com/halima-chowdhury-mahima" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://vercel.com/" target="_blank">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
 </p>
 
-## 🎨 Design Tools
+### 🎨 Design Tools
 
 <p>
+
+<a href="https://www.figma.com/" target="_blank">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</a>
+
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+</a>
+
 </p>
 
 ---
